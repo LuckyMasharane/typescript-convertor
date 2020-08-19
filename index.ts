@@ -6,7 +6,7 @@ const appDiv: HTMLElement = document.getElementById('app');
 appDiv.innerHTML = `<h1>TypeScript Starter</h1>`;
 
 var minutes = 60;
-var hour = 1;
+var hour = 2;
 
 var totalminPerhour = hour * minutes;
 var seconds = 0;
